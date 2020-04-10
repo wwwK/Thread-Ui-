@@ -1,0 +1,7 @@
+E:\练习\Thread多线程调用Ui线程\多线程基本知识\bin\Debug\多线程基本知识.exe.config
+E:\练习\Thread多线程调用Ui线程\多线程基本知识\bin\Debug\多线程基本知识.exe
+E:\练习\Thread多线程调用Ui线程\多线程基本知识\bin\Debug\多线程基本知识.pdb
+E:\练习\Thread多线程调用Ui线程\多线程基本知识\obj\Debug\多线程基本知识.csprojAssemblyReference.cache
+E:\练习\Thread多线程调用Ui线程\多线程基本知识\obj\Debug\多线程基本知识.csproj.CoreCompileInputs.cache
+E:\练习\Thread多线程调用Ui线程\多线程基本知识\obj\Debug\多线程基本知识.exe
+E:\练习\Thread多线程调用Ui线程\多线程基本知识\obj\Debug\多线程基本知识.pdb
